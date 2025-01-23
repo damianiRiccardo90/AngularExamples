@@ -2,7 +2,7 @@
 
 ## Introduction
 
-In this example, we'll enhance the previously created e-commerce application by incorporating the concepts from the [https://angular.dev/guide/components/styling](Angular Component Styling Guide). We'll focus on:
+In this example, we'll enhance the previously created e-commerce application by incorporating the concepts from the [https://angular.dev/guide/components/styling] (Angular Component Styling Guide). We'll focus on:
 - Component-specific styles
 - View encapsulation modes
 - Host selectors
