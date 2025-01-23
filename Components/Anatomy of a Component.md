@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Let's create a realistic Angular application that covers the functionalities described in the [https://angular.dev/guide/components](Angular Components guide). We'll build a simple e-commerce application that includes the following features:
+Let's create a realistic Angular application that covers the functionalities described in the [Angular Components guide](https://angular.dev/guide/components). We'll build a simple e-commerce application that includes the following features:
 - Component creation and nesting
 - Component inputs and outputs
 - Lifecycle hooks

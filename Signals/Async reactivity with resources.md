@@ -2,7 +2,7 @@
 
 ## Introduction
 
-In this example, we will build a more complex task management application using Angular **Signals**, with the addition of __resource handling features__. We’ll cover the following concepts: 
+In this example, we will build a more complex task management application using [Angular Signals](<Signals/Overview.md>), with the addition of [Resource Handling Features](https://angular.dev/guide/signals/resource). We’ll cover the following concepts: 
 - **signal**: For managing state (e.g., task list). 
 - **computed**: For derived state (e.g., count of pending tasks). 
 - **effect**: For reacting to state changes (e.g., persisting tasks to local storage). 

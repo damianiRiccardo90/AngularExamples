@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This example demonstrates how to use Angular Signals in a realistic, task management application. It covers the usage of `signal`, `computed`, and `effect` functionalities within Angular. The task manager allows users to manage tasks, with automatic persistence to local storage and reactive updates.
+This example demonstrates how to use [Angular Signals](https://angular.dev/guide/signals) in a realistic, task management application. It covers the usage of `signal`, `computed`, and `effect` functionalities within Angular. The task manager allows users to manage tasks, with automatic persistence to local storage and reactive updates.
 
 ## Code
 

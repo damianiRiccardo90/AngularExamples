@@ -2,7 +2,7 @@
 
 ## Introduction
 
-In this enhanced version of the Angular Signals example, we introduce the linkedsignal feature, which allows us to synchronize two signals. This is useful in cases where we need to keep different parts of the state in sync without manually updating them.
+In this enhanced version of the [Angular Signals](<Signals/Overview.md>) example, we introduce the [linkedSignal](https://angular.dev/guide/signals/linked-signal) feature, which allows us to synchronize two signals. This is useful in cases where we need to keep different parts of the state in sync without manually updating them.
 For example, we’ll link a signal that controls the task filtering state (e.g., “All”, “Completed”, “Pending”) to the task list’s display logic. The linked signal will automatically update based on the task filter, and vice versa.
 
 ## Code
