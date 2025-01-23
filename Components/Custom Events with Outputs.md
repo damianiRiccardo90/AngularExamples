@@ -1,4 +1,4 @@
-# Enhanced E-commerce Example with Advanced Input Properties
+# Enhanced E-commerce Example with Custom Events with Outputs
 
 ## Introduction
 
