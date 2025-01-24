@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This example builds on the logic found in [Anatomy of a Component](<Components/Anatomy_of_a_Component.md>) and demonstrates more in-depth use of [Angular Component Host Elements](https://angular.dev/guide/components/host-elements). This code builds on the original e-commerce application logic, leveraging Angular’s host element functionalities to demonstrate how to manipulate a component or directive’s host element. We will:
+This example builds on the logic found in [Anatomy of a Component](<Anatomy_of_a_Component.md>) and demonstrates more in-depth use of [Angular Component Host Elements](https://angular.dev/guide/components/host-elements). This code builds on the original e-commerce application logic, leveraging Angular’s host element functionalities to demonstrate how to manipulate a component or directive’s host element. We will:
 - Use `@HostBinding` to dynamically set properties or classes on the host element.
 - Use `@HostListener` to respond to events on the host element.
 - Configure the host metadata property in a component to bind classes and styles.

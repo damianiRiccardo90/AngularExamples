@@ -2,7 +2,7 @@
 
 ## Introduction
 
-In this document, we'll enhance the previous e-commerce Angular application from [Anatomy of a Component](<Components/Anatomy_of_a_Component.md>) by incorporating advanced component selectors as described in the [Components Selectors guide](https://angular.dev/guide/components/selectors). We'll demonstrate:
+In this document, we'll enhance the previous e-commerce Angular application from [Anatomy of a Component](<Anatomy_of_a_Component.md>) by incorporating advanced component selectors as described in the [Components Selectors guide](https://angular.dev/guide/components/selectors). We'll demonstrate:
 - Different types of component selectors: element selectors, attribute selectors, class selectors, and pseudo-class selectors.
 - How to use these selectors in a realistic and complex application.
 - The implications and use cases for each type of selector.

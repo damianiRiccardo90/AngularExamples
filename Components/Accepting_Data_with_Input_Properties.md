@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This example builds on the logic found in [Anatomy of a Component](<Components/Anatomy_of_a_Component.md>) and demonstrates more in-depth use of [Angular Component Inputs](https://angular.dev/guide/components/inputs), including:
+This example builds on the logic found in [Anatomy of a Component](<Anatomy_of_a_Component.md>) and demonstrates more in-depth use of [Angular Component Inputs](https://angular.dev/guide/components/inputs), including:
 - Multiple input properties
 - Input property aliases
 - Using get/set on input properties
@@ -340,7 +340,7 @@ h1 {
 ## Explanation of the Code
 
 ### Overview
-This enhanced example demonstrates advanced component input features within an Angular e-commerce demo. It builds upon the base logic shown in [Anatomy of a Component](<Components/Anatomy_of_a_Component.md>), adding examples of:
+This enhanced example demonstrates advanced component input features within an Angular e-commerce demo. It builds upon the base logic shown in [Anatomy of a Component](<Anatomy_of_a_Component.md>), adding examples of:
 
 - Multiple `Input()` properties
 - Input aliasing

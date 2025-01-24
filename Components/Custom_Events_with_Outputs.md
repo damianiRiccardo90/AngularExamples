@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This example builds on the logic found in [Anatomy of a Component](<Components/Anatomy_of_a_Component.md>) and demonstrates more in-depth use of [Angular Component Outputs with Custom Events](https://angular.dev/guide/components/outputs), including multiple custom event outputs, child-to-parent and parent-to-child interactions, and some more advanced patterns described in the Angular docs about outputs. This expanded example introduces a “Wishlist” feature, illustrating how components can emit events to parents and siblings, and how those parents can respond accordingly.
+This example builds on the logic found in [Anatomy of a Component](<Anatomy_of_a_Component.md>) and demonstrates more in-depth use of [Angular Component Outputs with Custom Events](https://angular.dev/guide/components/outputs), including multiple custom event outputs, child-to-parent and parent-to-child interactions, and some more advanced patterns described in the Angular docs about outputs. This expanded example introduces a “Wishlist” feature, illustrating how components can emit events to parents and siblings, and how those parents can respond accordingly.
 
 ## Code
 
@@ -400,7 +400,7 @@ export class AppModule {}
 ## Explanation of the Code
 
 ### Overview
-Below is a high-level overview, following the same style and structure as the [Anatomy of a Component](<Components/Anatomy_of_a_Component.md>) reference, and focusing on the new features and interactions introduced:
+Below is a high-level overview, following the same style and structure as the [Anatomy of a Component](<Anatomy_of_a_Component.md>) reference, and focusing on the new features and interactions introduced:
 
 ### AppComponent
 - **Purpose**:
