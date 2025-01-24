@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This example builds on the logic found in [Anatomy of a Component](<Components/Anatomy of a Component.md>) and demonstrates more in-depth use of [Angular Custom Projection with ng-content](https://angular.dev/guide/components/content-projection). This code builds on the original e-commerce application logic, keeping the same folder structure but adding new features that showcase content projection. After the code sections, you’ll find a detailed explanation of everything.
+This example builds on the logic found in [Anatomy of a Component](<Components/Anatomy_of_a_Component.md>) and demonstrates more in-depth use of [Angular Custom Projection with ng-content](https://angular.dev/guide/components/content-projection). This code builds on the original e-commerce application logic, keeping the same folder structure but adding new features that showcase content projection. After the code sections, you’ll find a detailed explanation of everything.
 
 ## Code
 

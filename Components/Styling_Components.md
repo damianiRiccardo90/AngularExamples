@@ -2,7 +2,7 @@
 
 ## Introduction
 
-In this example, we'll enhance the previously created e-commerce application in [Anatomy of a Component](<Components/Anatomy of a Component.md>) by incorporating the concepts from the [Angular Component Styling Guide](https://angular.dev/guide/components/styling). We'll focus on:
+In this example, we'll enhance the previously created e-commerce application in [Anatomy of a Component](<Components/Anatomy_of_a_Component.md>) by incorporating the concepts from the [Angular Component Styling Guide](https://angular.dev/guide/components/styling). We'll focus on:
 - Component-specific styles
 - View encapsulation modes
 - Host selectors
